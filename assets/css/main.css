@@ -849,6 +849,16 @@ body {
       display: none; }
   .about--options {
     display: none; } }
+.sponsor {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+.sponsor li {
+  float: left;
+  margin-right: 35px; }
+
 .contact {
   position: fixed;
   top: 0;
